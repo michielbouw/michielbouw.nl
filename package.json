@@ -1,0 +1,25 @@
+{
+  "name": "michielbouw.nl",
+  "version": "1.0.0",
+  "description": "Michiel Bouw landingpage",
+  "main": "index.html",
+  "dependencies": {
+    "clean-css": "^4.2.1",
+    "html-minifier": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "./build.sh",
+    "deploy": "./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michielbouw/michielbouw.nl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michielbouw/michielbouw.nl/issues"
+  },
+  "homepage": "https://github.com/michielbouw/michielbouw.nl#readme"
+}
