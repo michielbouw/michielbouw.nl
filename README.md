@@ -1,4 +1,5 @@
 # michielbouw.nl
+
 Michiel Bouw landingpage
 
 ## Requirements
@@ -18,8 +19,4 @@ AND
 ```
 
 ### Deploy code
-```
-...
-```
-
 After that run `npm run build` and `npm run deploy`, firebase will deploy it based on the config.
