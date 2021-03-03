@@ -13,3 +13,7 @@ uglifycss base.css > dist/base.css
 # move static
 mkdir dist/assets
 cp -rf assets dist
+
+# move documents
+mkdir dist/documents
+cp -rf documents dist
