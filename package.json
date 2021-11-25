@@ -1,22 +1,30 @@
 {
   "name": "michielbouw.nl",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Michiel Bouw landingpage",
-  "main": "index.html",
-  "dependencies": {
-    "html-minifier": "^4.0.0",
-    "uglifycss": "0.0.29"
-  },
-  "devDependencies": {},
   "scripts": {
-    "build": "./build.sh",
+    "start": "next dev",
+    "start:prod": "next build && next start",
+    "build": "next build",
+    "build:prod": "next build && next export",
     "deploy": "./deploy.sh"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/michielbouw/michielbouw.nl.git"
   },
-  "author": "",
+  "author": "Michiel Bouw",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/michielbouw/michielbouw.nl/issues"
