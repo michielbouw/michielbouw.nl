@@ -5,18 +5,36 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: "'Roboto', Arial, sans-serif",
+      serif: 'sans-serif',
     },
-    //       colors: {
-    //         'accent-1': '#FAFAFA',
-    //         'accent-2': '#EAEAEA',
-    //         'accent-7': '#333',
-    //         success: '#0070f3',
-    //         cyan: '#79FFE1',
-    //       },
-    extend: {},
+    container: {
+      padding: {
+        DEFAULT: '1rem',
+        sm: '2rem',
+        lg: '4rem',
+        xl: '5rem',
+        '2xl': '6rem',
+      },
+    },
+    extend: {
+      colors: {
+        primary: '#2A2F4D',
+        secondary: '#00698A',
+        background: '#F1F8F9',
+      },
+      scale: {
+        200: '2',
+        300: '3',
+        400: '4',
+        500: '5',
+      },
+    },
   },
   variants: {
-    extend: {},
+    extend: {
+      textColor: ['active'],
+      textOpacity: ['active'],
+    },
   },
   plugins: [],
 };
