@@ -46,6 +46,7 @@ function Hero() {
         <div className="hidden md:block w-1/2 h-full flex-none">
           <Image
             className="opacity-75 w-full h-full"
+            loader={() => './michiel.jpg'}
             src={meImage}
             alt="Michiel Bouw"
             layout="responsive"
@@ -56,6 +57,7 @@ function Hero() {
         <div className="block md:hidden w-full h-screen flex-none scale-200 translate-y-1/3 translate-x-1/2">
           <Image
             className="opacity-80 w-full h-full"
+            loader={() => './michiel.jpg'}
             src={meImage}
             alt="Michiel Bouw"
             layout="responsive"

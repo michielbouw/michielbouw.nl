@@ -107,6 +107,7 @@ export default function Home() {
           <div className="hidden lg:block w-1/2 h-full flex-none">
             <Image
               className="opacity-75 w-full h-full"
+              loader={() => './background-text.png'}
               src={backgroundTextImage}
               layout="responsive"
               placeholder="blur"

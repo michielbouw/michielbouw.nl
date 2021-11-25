@@ -12,7 +12,7 @@ function DesktopNav() {
       >
         <a
           alt="open-menu"
-          href="#"
+          href="/#"
           className="inline-block uppercase text-sm font-medium tracking-tight text-gray-800 cursor-pointer transition ease-out duration-700 motion-safe:group-hover:scale-110"
         >
           <svg
@@ -38,13 +38,13 @@ function DesktopNav() {
           }`}
         >
           <li className="uppercase text-sm font-medium tracking-tight text-gray-800 cursor-pointer transition ease-out duration-700 motion-safe:hover:scale-110">
-            <a href="#about">– About</a>
+            <a href="/#about">– About</a>
           </li>
           <li className="uppercase text-sm font-medium tracking-tight text-gray-800 cursor-pointer transition ease-out duration-700 motion-safe:hover:scale-110">
-            <a href="#career_and_skills">– Career &amp; Skills</a>
+            <a href="/#career_and_skills">– Career &amp; Skills</a>
           </li>
           <li className="uppercase text-sm font-medium tracking-tight text-gray-800 cursor-pointer transition ease-out duration-700 motion-safe:hover:scale-110">
-            <a href="#contact">– Contact</a>
+            <a href="/#contact">– Contact</a>
           </li>
         </ul>
       </div>
@@ -83,7 +83,7 @@ function MobileNav() {
         <div className="p-4 flex">
           <div className="flex-0">
             <p className="inline-block font-medium tracking-wider text-gray-600 border-b-2 border-primary">
-              <a href="#">Michiel Bouw</a>
+              <a href="/#">Michiel Bouw</a>
             </p>
           </div>
 
@@ -120,7 +120,7 @@ function MobileNav() {
         <div className="p-4 flex">
           <div className="flex-0">
             <p className="inline-block font-medium tracking-wider text-gray-600 border-b-2 border-primary">
-              <a href="#" onClick={() => setIsMobileSidebarVisible(false)}>
+              <a href="/#" onClick={() => setIsMobileSidebarVisible(false)}>
                 Michiel Bouw
               </a>
             </p>
@@ -156,20 +156,23 @@ function MobileNav() {
           className="py-6 px-4 flex flex-col gap-6"
         >
           <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
-            <a href="#about" onClick={() => setIsMobileSidebarVisible(false)}>
+            <a href="/#about" onClick={() => setIsMobileSidebarVisible(false)}>
               About
             </a>
           </li>
           <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
             <a
-              href="#career_and_skills"
+              href="/#career_and_skills"
               onClick={() => setIsMobileSidebarVisible(false)}
             >
               Career &amp; Skills
             </a>
           </li>
           <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
-            <a href="#contact" onClick={() => setIsMobileSidebarVisible(false)}>
+            <a
+              href="/#contact"
+              onClick={() => setIsMobileSidebarVisible(false)}
+            >
               Contact
             </a>
           </li>
