@@ -19,7 +19,7 @@ export default function Home() {
               About
             </h2>
             <p className="text-gray-800 mb-8">
-              As a mainly (front-end) JavaScript specialised developer I have a
+              As a mainly (front-end) JavaScript specialised developer, I have a
               passion for solving UX challenges that involve the end user
               directly. Having worked with different technologies mainly using
               JavaScript on different kind of projects in different teams I have

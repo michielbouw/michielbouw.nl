@@ -39,7 +39,7 @@ function Hero() {
       </div>
 
       <div className="absolute -bottom-56 md:bottom-80 2xl:bottom-32 left-0 md:left-2 w-full flex justify-end z-20">
-        <Quote>Start showing people other perspectives.</Quote>
+        <Quote>Show people other perspectives.</Quote>
       </div>
 
       <div className="absolute top-0 md:-top-1/6 lg:-top-1/3 left-0 w-full h-full flex justify-end z-0 overflow-y-hidden md:overflow-y-visible">
