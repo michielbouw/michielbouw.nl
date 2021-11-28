@@ -33,3 +33,7 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
 }
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}

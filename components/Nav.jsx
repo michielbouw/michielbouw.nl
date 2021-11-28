@@ -89,7 +89,7 @@ function MobileNav() {
 
           <a
             alt="open-menu"
-            className="flex-1 text-right cursor-pointer"
+            className="flex-1 text-right cursor-pointer focus:bg-transparent hover:bg-transparent active:bg-transparent visited:bg-transparent"
             onClick={() => setIsMobileSidebarVisible(true)}
           >
             <svg
@@ -128,7 +128,7 @@ function MobileNav() {
 
           <a
             alt="close-menu"
-            className="flex-1 text-right cursor-pointer"
+            className="flex-1 text-right cursor-pointer focus:bg-transparent hover:bg-transparent active:bg-transparent visited:bg-transparent"
             onClick={() => setIsMobileSidebarVisible(false)}
           >
             <svg
@@ -155,21 +155,27 @@ function MobileNav() {
           alt="menu"
           className="py-6 px-4 flex flex-col gap-6"
         >
-          <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
-            <a href="/#about" onClick={() => setIsMobileSidebarVisible(false)}>
+          <li className="py-2 text-xl font-light active:font-medium tracking-tight text-gray-800 cursor-pointer focus:bg-transparent hover:bg-transparent active:bg-transparent visited:bg-transparent">
+            <a
+              className="block"
+              href="/#about"
+              onClick={() => setIsMobileSidebarVisible(false)}
+            >
               About
             </a>
           </li>
-          <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
+          <li className="py-2 text-xl font-light active:font-medium tracking-tight text-gray-800 cursor-pointer focus:bg-transparent hover:bg-transparent active:bg-transparent visited:bg-transparent">
             <a
+              className="block"
               href="/#career_and_skills"
               onClick={() => setIsMobileSidebarVisible(false)}
             >
               Career &amp; Skills
             </a>
           </li>
-          <li className="font-light active:font-medium tracking-tight text-gray-800 cursor-pointer">
+          <li className="py-2 text-xl font-light active:font-medium tracking-tight text-gray-800 cursor-pointer focus:bg-transparent hover:bg-transparent active:bg-transparent visited:bg-transparent">
             <a
+              className="block"
               href="/#contact"
               onClick={() => setIsMobileSidebarVisible(false)}
             >

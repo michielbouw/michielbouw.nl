@@ -12,8 +12,8 @@ export default function Home() {
     <>
       <Hero />
 
-      <div className="mt-28 md:-mt-96 w-full h-auto relative" id="about">
-        <Container className="my-36 z-20">
+      <div className="mt-0 md:-mt-96 w-full h-auto relative" id="about">
+        <Container className="my-20 md:my-36 z-20">
           <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               About
@@ -21,9 +21,9 @@ export default function Home() {
             <p className="text-gray-800 mb-8">
               As a mainly (front-end) JavaScript specialised developer, I have a
               passion for solving UX challenges that involve the end user
-              directly. Having worked with different technologies mainly using
-              JavaScript on different kind of projects in different teams I have
-              become an all-round JavaScript developer.
+              directly. I have become an all-round JavaScript developer by
+              working with a variety of technologies in a wide range of projects
+              in different teams and companies.
             </p>
             <p className="text-gray-800 mb-8">
               I am a dedicated team player that enjoys working actively and
@@ -32,11 +32,13 @@ export default function Home() {
           </div>
         </Container>
 
-        <div
-          className="absolute -bottom-2 right-0 md:right-2 w-full flex z-10"
-          data-aos="fade-up"
-        >
-          <Quote>Openness will benefit everyone involved.</Quote>
+        <div className="hidden md:block">
+          <div
+            className="absolute -bottom-2 right-0 md:right-2 w-full flex z-10"
+            data-aos="fade-up"
+          >
+            <Quote>Openness will benefit everyone involved.</Quote>
+          </div>
         </div>
       </div>
 
@@ -44,7 +46,7 @@ export default function Home() {
         className="relative w-full flex bg-background z-0"
         id="career_and_skills"
       >
-        <Container className="my-36 z-20" data-aos="fade-up">
+        <Container className="my-20 md:my-36 z-20" data-aos="fade-up">
           <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Career &amp; Skills
@@ -117,7 +119,7 @@ export default function Home() {
       </div>
 
       <div className="w-full h-auto relative" data-aos="fade-up" id="contact">
-        <Container className="my-36 z-20">
+        <Container className="my-20 md:my-36 z-20">
           <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Contact

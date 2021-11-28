@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
   useEffect(() => {
     // init aos
     AOS.init({
-      offset: 200,
+      offset: 125,
     });
   }, []);
 

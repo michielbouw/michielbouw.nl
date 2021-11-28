@@ -6,7 +6,7 @@ import Quote from '../components/Quote';
 
 function Hero() {
   return (
-    <div className="w-full h-screen relative mb-32">
+    <div className="w-full h-screen relative mb-0 md:mb-32">
       <div className="md:container w-full h-screen md:h-2/3 mx-0 md:mx-auto mt-0 md:mt-24 flex flex-col justify-end md:justify-start">
         <div className="flex flex-col items-center z-20">
           <h1 className="text-4xl sm:text-6xl font-bold text-primary text-center pb-8 md:p-0">
@@ -38,8 +38,10 @@ function Hero() {
         </div>
       </div>
 
-      <div className="absolute -bottom-56 md:bottom-80 2xl:bottom-32 left-0 md:left-2 w-full flex justify-end z-20">
-        <Quote>Show people other perspectives.</Quote>
+      <div className="hidden md:block">
+        <div className="absolute -bottom-56 md:bottom-80 2xl:bottom-32 left-0 md:left-2 w-full flex justify-end z-20">
+          <Quote>Show people other perspectives.</Quote>
+        </div>
       </div>
 
       <div className="absolute top-0 md:-top-1/6 lg:-top-1/3 left-0 w-full h-full flex justify-end z-0 overflow-y-hidden md:overflow-y-visible">
