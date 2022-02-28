@@ -58,14 +58,14 @@ export default function Home() {
             </p>
             <p className="text-gray-800 mb-8">
               Looking for new challenges I joined Capgemini in 2019 as a
-              front-end developer consultant from which I later on moved over to
+              front-end developer consultant from which I, later on, moved over to
               the design agency Idean, a part of Capgemini.
             </p>
             <p className="text-gray-800 mb-8">
-              From that experience I co-founded a company where I am working as
-              Lead Software Engineer. Next to that I work at Smartly.io with
-              multiple teams on a big SaaS product as one of their Lead Software
-              Engineers.
+              Most recently I worked at Smartly.io with multiple teams on a big
+              SaaS product as one of their Lead Software Engineers. From that
+              experience, I co-founded a company where I am working as a Lead
+              Software Engineer and Senior Software Engineering Consultant.
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -85,10 +85,13 @@ export default function Home() {
               Tools &amp; Frameworks
             </h3>
             <p className="text-sm text-gray-800 font-light mb-0">
-              JavaScript / TypeScript / ECMAScript
+              HTML / CSS / SASS / CSS-in-JS
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              NodeJS / React / Angular / GraphQL / REST / Python
+              JavaScript / TypeScript / ECMAScript / Python / Go
+            </p>
+            <p className="text-sm text-gray-800 font-light mb-0">
+              React / Next.js / NodeJS / Angular / GraphQL / REST
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
               Web accessibility (WCAG 2.1)
