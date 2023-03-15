@@ -4,25 +4,15 @@ Michiel Bouw landingpage
 
 ## Requirements
 
-Firebase: `npm install -g firebase-tools`
+Nodejs v14/16
+
+Yarn: `npm i -g yarn`
 
 ## Deploy
 
-### One time
-
-Initialize firebase by running `firebase login && firebase init`
-
-Choose the following during the setup:
-
-```
-? What do you want to use as your public directory? (public) dist
-AND
-? File dist/index.html already exists. Overwrite? (y/N) N
-```
-
 ### Deploy code
 
-After that run `npm run build:prod` and `npm run deploy`, firebase will deploy it based on the config.
+After that run `npm run build:prod` and deploy the contents of folder `/out` to a static hosting solution.
 
 ## Next.js + Tailwind CSS
 
