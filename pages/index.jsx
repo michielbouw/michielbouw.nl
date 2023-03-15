@@ -21,13 +21,15 @@ export default function Home() {
             <p className="text-gray-800 mb-8">
               As a mainly (front-end) JavaScript specialised developer, I have a
               passion for solving UX challenges that involve the end user
-              directly. I have become an all-round JavaScript developer by
-              working with a variety of technologies in a wide range of projects
-              in different teams and companies.
+              directly. Having worked with a variety of technologies, mainly
+              using JavaScript, in a wide range of projects in different teams,
+              I have become an all-round JavaScript developer.
             </p>
             <p className="text-gray-800 mb-8">
               I am a dedicated team player that enjoys working actively and
               closely together with others to achieve the best results together.
+              I am a fast learner and I am able to (and interested to) see the
+              big picture.
             </p>
           </div>
         </Container>
@@ -58,14 +60,18 @@ export default function Home() {
             </p>
             <p className="text-gray-800 mb-8">
               Looking for new challenges I joined Capgemini in 2019 as a
-              front-end developer consultant from which I, later on, moved over to
-              the design agency Idean, a part of Capgemini.
+              front-end developer consultant from which I, later on, moved over
+              to the design agency Idean, a part of Capgemini.
             </p>
             <p className="text-gray-800 mb-8">
-              Most recently I worked at Smartly.io with multiple teams on a big
-              SaaS product as one of their Lead Software Engineers. From that
-              experience, I co-founded a company where I am working as a Lead
-              Software Engineer and Senior Software Engineering Consultant.
+              More recently I worked at Smartly.io with multiple teams on a big
+              SaaS product as one of their Lead Software Engineers.
+            </p>
+            <p className="text-gray-800 mb-8">
+              From that experience, I co-founded a company where I have been
+              working as a Lead/Senior Software Engineering Consultant for
+              multiple clients, from a financial startups to a large eCommerce
+              company.
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -91,7 +97,10 @@ export default function Home() {
               JavaScript / TypeScript / ECMAScript / Python / Go
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              React / Next.js / NodeJS / Angular / GraphQL / REST
+              React / Next.js / Gatsby / Vue.js / NodeJS / Angular
+            </p>
+            <p className="text-sm text-gray-800 font-light mb-0">
+              GraphQL / REST / Headless CMS
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
               Web accessibility (WCAG 2.1)
