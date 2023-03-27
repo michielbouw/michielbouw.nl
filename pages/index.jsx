@@ -14,7 +14,7 @@ export default function Home() {
 
       <div className="mt-0 md:-mt-96 w-full h-auto relative" id="about">
         <Container className="my-20 md:my-36 z-20">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               About
             </h2>
@@ -50,7 +50,7 @@ export default function Home() {
         id="career_and_skills"
       >
         <Container className="my-20 md:my-36 z-20" data-aos="fade-up">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Career &amp; Skills
             </h2>
@@ -82,10 +82,10 @@ export default function Home() {
               Front-end/JavaScript Software Architect
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Lead/Senior JavaScript/TypeScript Software Engineer/Developer
+              Lead/Senior JavaScript/TypeScript Software Engineer
             </p>
             <p className="text-sm text-gray-800 font-light mb-8">
-              Lead/Senior Front-end Software Engineer/Developer
+              Lead/Senior Front-end Software Engineer
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -104,7 +104,7 @@ export default function Home() {
               GraphQL / REST / Headless CMS
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Web accessibility (WCAG 2.1)
+              Jest / React Testing Library / Web accessibility
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
               Secure Software Development Lifecycle
@@ -133,7 +133,7 @@ export default function Home() {
 
       <div className="w-full h-auto relative" data-aos="fade-up" id="contact">
         <Container className="my-20 md:my-36 z-20">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Contact
             </h2>
