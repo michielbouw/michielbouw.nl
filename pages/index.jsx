@@ -19,7 +19,7 @@ export default function Home() {
               About
             </h2>
             <p className="text-gray-800 mb-8">
-              As a mainly (front-end) JavaScript-specialised developer, I am
+              As a mainly (frontend) JavaScript-specialised developer, I am
               passionate about directly solving technical challenges involving
               the end user. Having worked with a variety of technologies,
               primarily using JavaScript, in a wide range of projects in
@@ -56,12 +56,12 @@ export default function Home() {
             </h2>
             <p className="text-gray-800 mb-8">
               After working on freelance projects during my studies, I worked
-              full-time as a front-end developer focussing on JavaScript at
+              full-time as a frontend developer focussing on JavaScript at
               Bynder in 2016.
             </p>
             <p className="text-gray-800 mb-8">
               Then, looking for new challenges, I joined Capgemini in 2019 as a
-              front-end developer consultant. Later, I moved over to the design
+              frontend developer consultant. Later, I moved over to the design
               agency Idean, a part of Capgemini.
             </p>
             <p className="text-gray-800 mb-8">
@@ -72,7 +72,7 @@ export default function Home() {
               From that experience, I co-founded a company where I now work as a
               Lead/Senior Software Engineering Consultant. Via this company, I
               support and work with clients diverging from financial startups to
-              large B2B SaaS or B2C eCommerce companies.
+              large B2B SaaS or even B2C e-commerce companies.
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -82,7 +82,7 @@ export default function Home() {
               Front-end/JavaScript Software Architect
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Lead/Senior JavaScript/TypeScript Software Engineer
+              Lead/Senior JavaScript Software Engineer
             </p>
             <p className="text-sm text-gray-800 font-light mb-8">
               Lead/Senior Front-end Software Engineer
@@ -102,6 +102,9 @@ export default function Home() {
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
               GraphQL / REST / Headless CMS
+            </p>
+            <p className="text-sm text-gray-800 font-light mb-0">
+              Docker / AWS / Azure
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
               Jest / React Testing Library / Web accessibility

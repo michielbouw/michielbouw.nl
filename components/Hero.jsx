@@ -14,7 +14,7 @@ function Hero() {
           </h1>
           <div className="w-full md:w-auto flex-1 md:flex-none bg-black bg-opacity-60 md:bg-opacity-80 md:rounded-md mt-0 md:mt-4 mb-0 lg:mb-32 pb-28 pt-8 md:p-0">
             <h2 className="mx-8 my-1 text-xl md:text-2xl font-bold tracking-wide text-white text-center">
-              Lead/Senior Software Engineer (JavaScript/TypeScript)
+              Lead Software Engineering Consultant (JavaScript/TypeScript)
             </h2>
             <h2 className="block md:hidden mt-8 mb-1 text-xl font-light tracking-wide text-white text-opacity-60 text-center animate-bounce">
               <a href="#about" title="Read more">

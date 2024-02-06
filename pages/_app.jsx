@@ -21,19 +21,20 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          Michiel Bouw | Lead Software Engineer (JavaScript/TypeScript)
+          Michiel Bouw | Lead Software Engineering Consultant
+          (JavaScript/TypeScript)
         </title>
         <meta
           name="description"
-          content="As a mainly (front-end) JavaScript specialised developer I have a passion for solving UX challenges that involve the end user directly. Having worked with different technologies mainly using JavaScript on different kind of projects in different teams I have become an all-round JavaScript developer. I am a dedicated team player that enjoys working actively and closely together with others to achieve the best results together."
+          content="As a mainly (frontend) JavaScript-specialised developer, I am passionate about directly solving technical challenges involving the end user. Having worked with a variety of technologies, primarily using JavaScript, in a wide range of projects in different teams, I have become an all-round JavaScript developer."
         />
         <meta
           property="og:title"
-          content="Michiel Bouw | Lead Software Engineer (JavaScript/TypeScript)"
+          content="Michiel Bouw | Lead Software Engineering Consultant (JavaScript/TypeScript)"
         />
         <meta
           property="og:description"
-          content="As a mainly (front-end) JavaScript specialised developer I have a passion for solving UX challenges that involve the end user directly. Having worked with different technologies mainly using JavaScript on different kind of projects in different teams I have become an all-round JavaScript developer. I am a dedicated team player that enjoys working actively and closely together with others to achieve the best results together."
+          content="As a mainly (frontend) JavaScript-specialised developer, I am passionate about directly solving technical challenges involving the end user. Having worked with a variety of technologies, primarily using JavaScript, in a wide range of projects in different teams, I have become an all-round JavaScript developer."
         />
         <meta property="og:url" content="https://michielbouw.nl" />
         <meta property="og:type" content="website" />
