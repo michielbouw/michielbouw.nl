@@ -14,23 +14,27 @@ export default function Home() {
 
       <div className="mt-0 md:-mt-96 w-full h-auto relative" id="about">
         <Container className="my-20 md:my-36 z-20">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/3">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               About
             </h2>
             <p className="text-gray-800 mb-8">
-              As a mainly (frontend) JavaScript-specialised developer, I am
-              passionate about directly solving technical challenges involving
-              the end user. Having worked with a variety of technologies,
-              primarily using JavaScript, in a wide range of projects in
-              different teams, I have become an all-round JavaScript developer.
+              As an experienced Lead Frontend Developer, I thrive on building
+              innovative solutions and collaborating with talented teams.
             </p>
             <p className="text-gray-800 mb-8">
-              I am a dedicated team player who enjoys working actively and
-              closely with others to achieve the best results and share this
-              knowledge to enable and lead those around me to thrive in what
-              they do. In addition, I am a fast learner interested in overseeing
-              the big picture.
+              I value teamwork and open communication and enjoy fostering an
+              environment where everyone feels heard and valued. I am passionate
+              about creating robust, scalable solutions and believe the best
+              results come from a collaborative effort. I thrive on finding
+              innovative solutions to complex problems and continually seek ways
+              to push boundaries and drive progress.
+            </p>
+            <p className="text-gray-800 mb-8">
+              I enjoy leading teams and helping them grow. My leadership style
+              emphasises open communication and teamwork, supporting and
+              mentoring developers and managing stakeholder relationships to
+              ensure project success.
             </p>
           </div>
         </Container>
@@ -50,29 +54,31 @@ export default function Home() {
         id="career_and_skills"
       >
         <Container className="my-20 md:my-36 z-20" data-aos="fade-up">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/3">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Career &amp; Skills
             </h2>
             <p className="text-gray-800 mb-8">
               After working on freelance projects during my studies, I worked
               full-time as a frontend developer focussing on JavaScript at
-              Bynder in 2016.
+              Bynder in 2016. Then, looking for new challenges, I joined
+              Capgemini in 2019.
             </p>
             <p className="text-gray-800 mb-8">
-              Then, looking for new challenges, I joined Capgemini in 2019 as a
-              frontend developer consultant. Later, I moved over to the design
-              agency Idean, a part of Capgemini.
+              Based on my previous work experience, I co-founded a company where
+              I now work as a Lead/Senior Software Engineering Consultant.
+              Through this company, I support and work with clients ranging from
+              financial startups to large B2B SaaS or even B2C e-commerce
+              companies. I've had the privilege of working in some exciting
+              roles over the years, each offering unique experiences and
+              lessons.
             </p>
             <p className="text-gray-800 mb-8">
-              More recently, I worked at Smartly.io with multiple teams on a
-              large SaaS product as one of their Lead Software Engineers.
-            </p>
-            <p className="text-gray-800 mb-8">
-              From that experience, I co-founded a company where I now work as a
-              Lead/Senior Software Engineering Consultant. Via this company, I
-              support and work with clients diverging from financial startups to
-              large B2B SaaS or even B2C e-commerce companies.
+              Currently, I work mainly as a Lead Software Engineer, leading
+              frontend development, for example, within complex e-commerce
+              platforms and extensive SaaS applications. I thrive on challenges
+              that allow me to lead teams, shape technical roadmaps, and create
+              impactful solutions.
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -82,10 +88,10 @@ export default function Home() {
               Front-end/JavaScript Software Architect
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Lead/Senior JavaScript Software Engineer
+              Lead/Senior JavaScript/TypeScript Software Engineer/Developer
             </p>
             <p className="text-sm text-gray-800 font-light mb-8">
-              Lead/Senior Front-end Software Engineer
+              Lead/Senior Front-end Software Engineer/Developer
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
@@ -136,7 +142,7 @@ export default function Home() {
 
       <div className="w-full h-auto relative" data-aos="fade-up" id="contact">
         <Container className="my-20 md:my-36 z-20">
-          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/4">
+          <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-1/3">
             <h2 className="text-4xl font-light tracking-tighter text-secondary text-opacity-90 mb-4">
               Contact
             </h2>

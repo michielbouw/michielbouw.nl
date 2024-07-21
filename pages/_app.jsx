@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
         </title>
         <meta
           name="description"
-          content="As a mainly (frontend) JavaScript-specialised developer, I am passionate about directly solving technical challenges involving the end user. Having worked with a variety of technologies, primarily using JavaScript, in a wide range of projects in different teams, I have become an all-round JavaScript developer."
+          content="As an experienced Lead Frontend Developer, I thrive on building innovative solutions and collaborating with talented teams."
         />
         <meta
           property="og:title"
@@ -34,7 +34,7 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           property="og:description"
-          content="As a mainly (frontend) JavaScript-specialised developer, I am passionate about directly solving technical challenges involving the end user. Having worked with a variety of technologies, primarily using JavaScript, in a wide range of projects in different teams, I have become an all-round JavaScript developer."
+          content="As an experienced Lead Frontend Developer, I thrive on building innovative solutions and collaborating with talented teams."
         />
         <meta property="og:url" content="https://michielbouw.nl" />
         <meta property="og:type" content="website" />
