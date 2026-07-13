@@ -21,20 +21,19 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          Michiel Bouw | Lead Software Engineering Consultant
-          (JavaScript/TypeScript)
+          Michiel Bouw | Lead Software Consultant
         </title>
         <meta
           name="description"
-          content="As an experienced Lead Frontend Developer, I thrive on building innovative solutions and collaborating with talented teams."
+          content="As a Lead Software Consultant, I combine hands-on software engineering with technical leadership, strategy, architecture and consultancy."
         />
         <meta
           property="og:title"
-          content="Michiel Bouw | Lead Software Engineering Consultant (JavaScript/TypeScript)"
+          content="Michiel Bouw | Lead Software Consultant"
         />
         <meta
           property="og:description"
-          content="As an experienced Lead Frontend Developer, I thrive on building innovative solutions and collaborating with talented teams."
+          content="As a Lead Software Consultant, I combine hands-on software engineering with technical leadership, strategy, architecture and consultancy."
         />
         <meta property="og:url" content="https://michielbouw.nl" />
         <meta property="og:type" content="website" />

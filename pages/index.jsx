@@ -19,22 +19,13 @@ export default function Home() {
               About
             </h2>
             <p className="text-gray-800 mb-8">
-              As an experienced Lead Frontend Developer, I thrive on building
-              innovative solutions and collaborating with talented teams.
+              I help organisations build scalable software platforms by providing the right technical leadership from my hands-on experience.
             </p>
             <p className="text-gray-800 mb-8">
-              I value teamwork and open communication and enjoy fostering an
-              environment where everyone feels heard and valued. I am passionate
-              about creating robust, scalable solutions and believe the best
-              results come from a collaborative effort. I thrive on finding
-              innovative solutions to complex problems and continually seek ways
-              to push boundaries and drive progress.
+              As a Lead Software Consultant, I combine hands-on software engineering with technical leadership, strategy, architecture and consultancy. I like to work closely with developers, product managers and stakeholders to shape technical direction, improve engineering practices and deliver sustainable software solutions.
             </p>
             <p className="text-gray-800 mb-8">
-              I enjoy leading teams and helping them grow. My leadership style
-              emphasises open communication and teamwork, supporting and
-              mentoring developers and managing stakeholder relationships to
-              ensure project success.
+              I believe the best technical leaders stay close to the technology. That's why I intentionally combine software development with coaching, technical decision-making and helping teams grow.
             </p>
           </div>
         </Container>
@@ -59,67 +50,42 @@ export default function Home() {
               Career &amp; Skills
             </h2>
             <p className="text-gray-800 mb-8">
-              After working on freelance projects during my studies, I worked
-              full-time as a frontend developer focussing on JavaScript at
-              Bynder in 2016. Then, looking for new challenges, I joined
-              Capgemini in 2019.
+              My career started with freelance software development projects during my studies, followed by a Frontend Software Engineer role at Bynder in 2016, where I specialised in modern JavaScript development. In 2019, I joined Capgemini, working on large-scale enterprise projects while further developing my consultancy and technical leadership skills.
             </p>
             <p className="text-gray-800 mb-8">
-              Based on my previous work experience, I co-founded a company where
-              I now work as a Lead/Senior Software Engineering Consultant.
-              Through this company, I support and work with clients ranging from
-              financial startups to large B2B SaaS or even B2C e-commerce
-              companies. I've had the privilege of working in some exciting
-              roles over the years, each offering unique experiences and
-              lessons.
-            </p>
-            <p className="text-gray-800 mb-8">
-              Currently, I work mainly as a Lead Software Engineer, leading
-              frontend development, for example, within complex e-commerce
-              platforms and extensive SaaS applications. I thrive on challenges
-              that allow me to lead teams, shape technical roadmaps, and create
-              impactful solutions.
+              Today, I co-own a consultancy company through which I work with organisations ranging from startups to enterprise businesses. As a Lead Software Consultant, I help clients build and evolve complex software platforms while providing technical guidance, supporting engineering teams and driving continuous improvement.
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
               Can work as
             </h3>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Front-end/JavaScript Software Architect
+              Lead Software Consultant
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              Lead/Senior JavaScript/TypeScript Software Engineer/Developer
+              Lead/Senior Frontend Consultant/Engineer
             </p>
             <p className="text-sm text-gray-800 font-light mb-8">
-              Lead/Senior Front-end Software Engineer/Developer
+              Technical Lead
+            </p>
+            <p className="text-sm text-gray-800 font-light mb-8">
+              Frontend Architect
             </p>
 
             <h3 className="text-xl font-light tracking-tighter text-secondary text-opacity-90 mb-2">
-              Tools &amp; Frameworks
+              Core experience
             </h3>
             <p className="text-sm text-gray-800 font-light mb-0">
-              HTML / CSS / SASS / CSS-in-JS
+              Technical Leadership
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              JavaScript / TypeScript / ECMAScript / Python / Go
+              Frontend Architecture
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              React / Next.js / Gatsby / Vue.js / NodeJS / Angular
+              React, JavaScript & TypeScript Engineering
             </p>
             <p className="text-sm text-gray-800 font-light mb-0">
-              GraphQL / REST / Headless CMS
-            </p>
-            <p className="text-sm text-gray-800 font-light mb-0">
-              Docker / AWS / Azure
-            </p>
-            <p className="text-sm text-gray-800 font-light mb-0">
-              Jest / React Testing Library / Web accessibility
-            </p>
-            <p className="text-sm text-gray-800 font-light mb-0">
-              Secure Software Development Lifecycle
-            </p>
-            <p className="text-sm text-gray-800 font-light mb-8">
-              Scrum / Coaching / Agile / SAFe
+              Team Coaching & Mentoring
             </p>
           </div>
         </Container>
