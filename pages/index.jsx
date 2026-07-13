@@ -65,7 +65,7 @@ export default function Home() {
             <p className="text-sm text-gray-800 font-light mb-0">
               Lead/Senior Frontend Consultant/Engineer
             </p>
-            <p className="text-sm text-gray-800 font-light mb-8">
+            <p className="text-sm text-gray-800 font-light mb-0">
               Technical Lead
             </p>
             <p className="text-sm text-gray-800 font-light mb-8">
